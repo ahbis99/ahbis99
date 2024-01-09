@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width='1200' he
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY3YTUxZGY3MThhOGIzODUyMzQzOWI5OGJlYjAzNjUwMDgxYjk1YiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="coder" width='400'>
 
-- 🔭 I’m currently working in an Insurance company as a **Data Scientist**
+- 🔭 I’m currently a Master student in **Artificial Intelligence** at **EMAI (Erasmus Mundus Artificial Intelligence Program)**.
 
 - 🌱 I’m currently learning **R, AWS**
 
