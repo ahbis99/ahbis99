@@ -1,5 +1,4 @@
-<img
-src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width='1200' height='200'>
+
 
 <h1 align="center">Hi 👋, I'm Ahmet Çalış</h1>
 <h3 align="center">A passionate Data Scientist from Turkey.</h3>
